@@ -276,7 +276,7 @@ ColectorHub/
 │   ├── assets/              # Logo, banners
 │   └── screenshots/         # App screenshots
 ├── PLANEJAMENTO.md          # Full project planning document (PT-BR)
-├── CONTRIBUTING.md          # Contribution guidelines
+├── MONETIZACAO.md           # Monetization & scaling strategy (PT-BR)
 └── README.md                # You are here
 ```
 
@@ -292,15 +292,9 @@ ColectorHub/
 
 ---
 
-## Contributing
-
-Contributions are welcome! Please read the [Contributing Guide](CONTRIBUTING.md) before submitting a pull request.
-
----
-
 ## License
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+This is a proprietary project. All rights reserved. See [LICENSE](LICENSE) for details.
 
 ---
 
